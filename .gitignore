@@ -248,4 +248,8 @@ $RECYCLE.BIN/
 # folder for local 
 saved_models/
 results/
+inputs/
 
+# virtual environment
+venv/
+conda-env/
